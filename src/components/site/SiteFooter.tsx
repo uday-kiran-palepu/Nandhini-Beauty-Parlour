@@ -43,7 +43,7 @@ export function SiteFooter() {
           <ul className="space-y-3 text-sm text-muted-foreground">
             <li className="flex gap-2.5 items-start">
               <MapPin className="h-4 w-4 text-[color:var(--burgundy)] shrink-0 mt-0.5" />
-              <span>Wharf Road, Prasar Pet, Kakinada</span>
+              <span>Wharf Road, Prezarpet, Kakinada</span>
             </li>
             <li className="flex gap-2.5 items-center">
               <Phone className="h-4 w-4 text-[color:var(--burgundy)] shrink-0" />

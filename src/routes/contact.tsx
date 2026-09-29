@@ -101,7 +101,7 @@ function ContactPage() {
                     Parlour Address
                   </div>
                   <div className="mt-1 text-sm font-medium text-[color:var(--charcoal)] leading-relaxed">
-                    Wharf Road, Prasar Pet, Kakinada, Andhra Pradesh
+                    Wharf Road, Prezarpet, Kakinada, Andhra Pradesh
                   </div>
                 </div>
               </div>
